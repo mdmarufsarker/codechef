@@ -12,7 +12,17 @@ int main() {
 	    
 	    if(x >= y) printf("YES\n");
 	    else printf("NO\n");
+
+		
+	/*
+		int x, y;
+	    scanf("%d%d", &x, &y);
+	    
+	    if(x >= y) printf("YES\n");
+	    else printf("NO\n");
+	*/
 	}
+
 	
 	return 0;
 }
